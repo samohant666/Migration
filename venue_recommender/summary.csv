@@ -1,0 +1,7 @@
+,city,total_neighborhood,avg_venue_count_per_nbhd,num_nbhd_gt_4_venue,nbhd_gt_4_venue_avg_venue_count
+0,mumbai,852,1.9,"35, 4%",6.5
+1,delhi,565,2.4,"40, 7%",7.9
+2,hyderabad,193,1.9,"15, 7%",7.6
+3,pune,124,2.0,"11, 8%",6.6
+4,bangalore,123,2.2,"17, 13%",5.9
+5,toronto,96,22.0,"72, 75%",25.9
